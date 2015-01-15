@@ -12,5 +12,6 @@ iron = "*"
 hyper = "*"
 uuid = "*"
 url = "*"
-intovec = "*"
 
+[dependencies.intovec]
+git = "https://github.com/aleksandrpak/rust-intovec.git"
